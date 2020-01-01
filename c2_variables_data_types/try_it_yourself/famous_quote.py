@@ -1,0 +1,1 @@
+print(f'Nikola Tesla once said, “Be alone, that is the secret of invention; be alone, that is when ideas are born."')
