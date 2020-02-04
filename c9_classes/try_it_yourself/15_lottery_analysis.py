@@ -18,7 +18,7 @@ while True:
     tentativas += 1
 
     # preenche numero do bilhete
-    for x in range(0,10):
+    for x in range(0,4):
         t = choice(lottery)
         my_ticket.append(t)
 
